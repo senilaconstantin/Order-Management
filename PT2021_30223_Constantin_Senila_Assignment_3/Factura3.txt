@@ -1,0 +1,3 @@
+Clientul: Braic Andrei a cumparat 6 'Sapun', pret total=34.50 Ron
+Cantitate: 6
+Pretul per bucate este de: 5.75 Ron

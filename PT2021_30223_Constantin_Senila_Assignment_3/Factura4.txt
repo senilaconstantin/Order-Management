@@ -1,0 +1,3 @@
+Clientul: Pop Sonny a cumparat 7 'Pasta de dinti', pret total=138.46 Ron
+Cantitate: 7
+Pretul per bucate este de: 19.78 Ron

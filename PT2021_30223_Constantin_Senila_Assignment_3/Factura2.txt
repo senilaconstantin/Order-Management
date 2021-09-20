@@ -1,0 +1,3 @@
+Clientul: Senila Constantin a cumparat 3 'Sampon', pret total=73.50 Ron
+Cantitate: 3
+Pretul per bucate este de: 24.50 Ron
